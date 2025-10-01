@@ -6,6 +6,7 @@ export const cardArray = [
 		address: 'Казань, р-н Вахатовский',
 		date: '10 июля 11:39',
 		img: 'https://placehold.jp/266x266.png',
+		description: 'Продаю не спеша самокат в хорошем состоянии.',
 	},
 	{
 		id: 1,
@@ -14,14 +15,16 @@ export const cardArray = [
 		address: 'Казань, р-н Вахатовский',
 		date: '10 июля 11:39',
 		img: 'https://placehold.jp/266x266.png',
+		description: 'Продаю не спеша самокат в хорошем состоянии.',
 	},
-  {
+	{
 		id: 2,
 		title: 'Пвх материал 3-й сорт',
 		price: '200 ₽',
 		address: 'Казань, р-н Вахатовский',
 		date: '10 июля 11:39',
 		img: 'https://placehold.jp/266x266.png',
+		description: 'Продаю не спеша самокат в хорошем состоянии.',
 	},
 	{
 		id: 3,
@@ -30,14 +33,16 @@ export const cardArray = [
 		address: 'Казань, р-н Вахатовский',
 		date: '10 июля 11:39',
 		img: 'https://placehold.jp/266x266.png',
+		description: 'Продаю не спеша самокат в хорошем состоянии.',
 	},
-  {
+	{
 		id: 4,
 		title: 'Пвх материал 5-й сорт',
 		price: '1600 ₽',
 		address: 'Казань, р-н Вахатовский',
 		date: '10 июля 11:39',
 		img: 'https://placehold.jp/266x266.png',
+		description: 'Продаю не спеша самокат в хорошем состоянии.',
 	},
 	{
 		id: 5,
@@ -46,5 +51,6 @@ export const cardArray = [
 		address: 'Казань, р-н Вахатовский',
 		date: '10 июля 11:39',
 		img: 'https://placehold.jp/266x266.png',
+		description: 'Продаю не спеша самокат в хорошем состоянии.',
 	},
 ];
